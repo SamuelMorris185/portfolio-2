@@ -87,7 +87,7 @@ const LanguagesAndEducation = () => {
               </div>
               <div className="flex-1">
                 <h3 className={`text-xl font-bold text-white mb-2`}>
-                  XYZ College
+                  Stella Marys College of engineering
                 </h3>
                 <p className={`text-gray-300 font-medium mb-1`}>
                   Higher Secondary

@@ -9,11 +9,11 @@ const Hero = () => {
       <div className="grid md:grid-cols-2 items-center gap-15">
         <div className="order-2 md:order-1 text-center md:text-left">
           <p className={`text-gray-300 mb-2 font-medium`}>Hi I am</p>
-          <p className="text-orange-500 text-2xl mb-4 font-bold">Fawzi Sayed</p>
+          <p className="text-orange-500 text-2xl mb-4 font-bold">Samuel Morris</p>
           <h1
             className={`text-5xl md:text-7xl font-black leading-tight mb-6 text-white`}
           >
-            FRONTEND
+            FULLSTACK
             <br />
             DEVELOPER
           </h1>
@@ -29,8 +29,8 @@ const Hero = () => {
         <div className="flex flex-col items-center justify-center order-1 md:order-2">
           <div className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-[500px] lg:w-[400px] lg:h-[500px] rounded-full overflow-hidden mb-6 md:mb-8">
             <img
-              src="/images/avatar1.png"
-              alt="Fawzi Sayed"
+              src="portfolio-workshop/public/images/sam.jpg"
+              alt="Samuel Morris"
               className="w-full h-full object-cover"
             />
           </div>
